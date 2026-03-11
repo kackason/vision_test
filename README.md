@@ -1,12 +1,13 @@
 # Vision Test
-![Title Screen](Screenshots/title.png)
-![Gameplay](Screenshots/gameplay.png)
-
 ## Overview
 視力検査をモチーフにしたUnityゲーム。  
 迫りくるランドルト環と同じ向きに指を指し続けることで判定を行う。
 
 測定モードではリアルタイムで視力値が変化する。
+![Title Screen](Screenshots/title.png)
+![Gameplay](Screenshots/gameplay.png)
+
+プレイ:https://unityroom.com/games/visiontest#google_vignette
 
 ---
 
